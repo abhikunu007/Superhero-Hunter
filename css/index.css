@@ -12,7 +12,7 @@
     --navbar-light-background-color: rgb(46, 144, 223);
     --navbar-light-color: #070866;
     --searchBar-light-box-shadow: #0D4C92;
-    --background-light-image: url('/assets/background.jpg');
+    --background-light-image: url('../assets/background.jpg');
    
     
     /* -------> Dark Mode Colors <------- */
