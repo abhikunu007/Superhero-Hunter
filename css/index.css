@@ -21,7 +21,7 @@
     --navbar-dark-color: rgb(154, 154, 192);
     --navbar-dark-box-shadow:  #ede9eb;
     --searchBar-dark-box-shadow: #ede9eb;
-    --background-dark-image: url('/assets/backgroundDark.jpg')
+    --background-dark-image: url('../assets/backgroundDark.jpg')
     
     
 }
