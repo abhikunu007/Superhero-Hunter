@@ -11,9 +11,9 @@ A Superhero Hunter made using Marvel API in which we can search for our superher
 
 
 ## Demo
+![Superhero Hunter (1)](https://user-images.githubusercontent.com/97237505/215272396-b900ebf8-43b9-4890-834d-8bb5a3c81f4f.gif)
 
 
-![myfile](file:///C:/Users/Abhishek/Downloads/Superhero%20Hunter.gif)
 ## Deployment
 
 To see this project live click below
@@ -30,6 +30,17 @@ To see this project live click below
 
 
 ## Screenshots
+![Screenshot (91)](https://user-images.githubusercontent.com/97237505/215271911-bfff5a27-bd46-48e1-ae63-eb57af0470ab.png)
+
+![Screenshot (90)](https://user-images.githubusercontent.com/97237505/215271964-9fff9417-5b69-45ac-b420-0974c1adc7e2.png)
+
+![Screenshot (93)](https://user-images.githubusercontent.com/97237505/215271996-6834fa61-4fb9-4423-8394-f327b58004cf.png)
+
+![Screenshot (94)](https://user-images.githubusercontent.com/97237505/215272036-92b0a1c1-50c1-4904-bcce-4ca7b9ec92ae.png)
+
+![Screenshot (92)](https://user-images.githubusercontent.com/97237505/215272044-8dee9f76-0d49-4271-9361-8612e510b1cb.png)
+
+![Screenshot (95)](https://user-images.githubusercontent.com/97237505/215272049-879e839a-4cdd-4d2c-80c8-9be78df4497a.png)
 
 
 
